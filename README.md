@@ -1,2 +1,3 @@
 # kakao-clone
- to learn web development
+
+Kakao Desktop App Clone
